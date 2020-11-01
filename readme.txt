@@ -1,38 +1,16 @@
-=== rtCamp Assignment ===
+This repo contains wordpress theme assignment created for the rtCamp Solutions Pvt. Ltd. as Assignment
 
-Contributors: automattic
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+The theme used here can be found on given link:- https://underscores.me/
 
-Requires at least: 4.5
-Tested up to: 4.8
-Stable tag: 1.0.0
-License: GNU General Public License v2 or later
-License URI: LICENSE
+The plugins I used for this assignment are:- recent-posts-by-category-widget
 
-A starter theme called rtCamp Assignment.
 
-== Description ==
+The theme is constructed as per the requirement by the rtCamp Company under Wordpress engineer Assignment: https://rtcamp.com/assignments/senior-wordpress-engineer/
 
-rtCamp Theme Development Assignment
+The demo for this theme can be found here: http://mydailyblogs.epizy.com/
 
-== Installation ==
+Installation:-
 
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
+2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
-
-== Frequently Asked Questions ==
-
-= Does this theme support any plugins? =
-
-rtCamp Assignment includes support for Infinite Scroll in Jetpack.
-
-== Changelog ==
-
-= 1.0 - May 12 2015 =
-* Initial release
-
-== Credits ==
-
-* Based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
